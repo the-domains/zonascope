@@ -1,28 +1,40 @@
-name: Zonascope
-favicon: null
-layout_spectrum: 0.8659751012455672
-typography_spectrum: 0.500707569764927
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8935791805852205
-  lightness: 0.20387368346564472
-  saturation: 0.07028090581297874
-  rhythmicContrast: 0.9651280001271516
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7114695
+  brandStrength: 0.7526882
+  lightness: 0.5788531
+  brandColors:
+    - '#3A2921'
+    - '#FFFFFF'
+    - '#5B4B43'
+    - '#C5BDB4'
+    - '#875D27'
+  rhythmicContrast: 0.7240143
+typography_spectrum: 0.109319
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Zonascope
