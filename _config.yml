@@ -1,7 +1,7 @@
 name: Zonascope
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.109319
+layout_spectrum: 0.10913
+typography_spectrum: 0.46053
 collections:
   - index:
       path: /
