@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Zonascope
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.109319
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.7114695
-  brandStrength: 0.7526882
-  lightness: 0.5788531
-  brandColors:
-    - '#3A2921'
-    - '#FFFFFF'
-    - '#5B4B43'
-    - '#C5BDB4'
-    - '#875D27'
-  rhythmicContrast: 0.7240143
-typography_spectrum: 0.109319
-layout_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Zonascope
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3a2923'
+    - '#ffffff'
+    - '#7c685e'
+    - '#dedbda'
+    - '#a29a97'
+  brandStrength: 0.625
+  lightness: 0.5788531
+  saturation: 0.7114695
+  rhythmicContrast: 0.75
+purpose: []
