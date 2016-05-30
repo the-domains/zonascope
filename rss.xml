@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Zonascope]]></title>
         <description><![CDATA[Zonascope]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zonascope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 12:48:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 19:09:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zonascope/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ZONASCOPE: Get in The Zone]]></title>
             <description><![CDATA[<article><h1>ZONASCOPE: Get in The Zone</h1><p>Now there is a way to track and determine when you are going to most productive in a day. ZONASCOPE is a new app for iPhone that lets you play brain training games and then uses those scores to build a personal productivity profile of when you are most during the day. ZONASCOPE works out the best time to get you into "THE ZONE" of optimal performance.</p></article>]]></description>
-            <link>undefinedzonascope-get-in-the-zone/index.html</link>
+            <link>https://thegrid.ai/zonascope/zonascope-get-in-the-zone/index.html</link>
             <guid isPermaLink="false">1cf09caa-e1d6-4f55-b6a5-9b5ccd481337</guid>
             <pubDate>Mon, 30 May 2016 12:48:46 GMT</pubDate>
         </item>
