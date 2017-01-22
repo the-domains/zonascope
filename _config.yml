@@ -1,5 +1,6 @@
 name: Zonascope
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7de0c88-749d-489b-8569-4be928ae0b76.png
 layout_spectrum: 0.10592
 typography_spectrum: 0.46053
 collections:
@@ -19,7 +20,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-64338413-1
   facebook: null
   twitter: null
 opengraph:
@@ -37,4 +38,18 @@ color:
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.75
-purpose: []
+purpose:
+  - type: external
+    url: 'http://apple.co/2jkSrTc'
+    label: Get the App
+  - type: contact
+    url: 'mailto:info@zonascope.com'
+    label: Contact me
+content: []
+title: Zonascope Brain Tracker App
+description: Track your optimal brain productivity times
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1946c80e-65e0-45d7-8b64-12c5f8262076.png
+author:
+  name: ''
